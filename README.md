@@ -4,7 +4,7 @@
 
 ## Links
 
-- [Demo](https://node-express-fact.herokuapp.com/)
+- [Demo](https://nodejs-fact.herokuapp.com/)
 - [Source](https://github.com/karanamvijaykumar/node-express-fact)
 
 ## Requirements
